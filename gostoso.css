@@ -1,0 +1,25 @@
+body {
+background-color:brown;
+color:white;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ul {
+display:flex;
+justify-content:space-between;
+list-style-type: none;
+align-items: center;
+padding: 16px;
+margin: 5px;;
+}
+}
+main img{
+
+height: 500px;
+width: 500px;
+margin-left:36%;
+}
+footer img{
+    height: 500px;
+width: 500px;
+margin-left:36%;
+
+}
